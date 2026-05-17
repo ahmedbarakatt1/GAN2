@@ -1,7 +1,5 @@
-CLAUDE.md
 model/weights/*.pt
 data/pred_*.txt
 __pycache__/
 *.py[cod]
-.claude/
 memory/
